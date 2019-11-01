@@ -1,3 +1,3 @@
 # email_to_spreadsheet
 
-used dumbemail
+used dumb email
